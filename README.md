@@ -1,5 +1,5 @@
-🧑‍💻 About Me<br>
-Hello,I'm B Priyanka
+🧑‍💻 About Me<br><br>
+Hello,I'm B Priyanka<br><br>
 🚀 Working on full-stack projects using Java + React.js<br><br>
 🛠️ Learning backend development & SQL databases<br><br>
 📡 Passionate about clean code & user-friendly UIs<br><br>
