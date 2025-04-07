@@ -1,5 +1,9 @@
-# About Me:
-I'm currently working on<br>Enhancing my full-stack development skills and building personal projects using Java, React.js, and SQL.<br><br> I'm looking to collaborate on<br>Web development projects, beginner-friendly open-source contributions, and Java-based applications.<br><br>💬 I'm looking for help with<br>Improving my React.js and backend development skills, and working on real-world full-stack projects.<br><br>🌱I'm currently learning<br>React.js, backend integration, REST APIs, and advanced Java programming.<br><br> Ask me about<br>Java, JavaScript, Python, HTML, CSS, SQL, and how I’m building my developer journey as a fresher.<br><br> Fun fact<br>I get a little too excited when a piece of code finally works after hours of debugging <br><br>
+🧑‍💻 About Me
+🚀 Working on full-stack projects using Java + React.js<br><br>
+🛠️ Learning backend development & SQL databases<br><br>
+📡 Passionate about clean code & user-friendly UIs<br><br>
+💬 Ask me about Java, JavaScript, Python, HTML, CSS, SQL<br><br>
+
 
 
 ## 🌐 Socials:
