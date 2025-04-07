@@ -8,7 +8,7 @@ Hello,I'm B Priyanka<br><br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=https://www.linkedin.com/in/b-priyanka-946b66222/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?]logo=https://www.linkedin.com/in/b-priyanka-946b66222/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyankaborigi306@gmail.com) 
 
 # 💻 Tech Stack:
